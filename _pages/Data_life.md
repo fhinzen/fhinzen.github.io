@@ -23,6 +23,6 @@ I estimate the yield curve at which U.S. life insurers effectively borrow from t
 ---
 
 ### NAIC Reference Interest Rate
-I have gathered the longest available time-series of the reference interest rate which is used to value life insurance liabilities according to statutory reserve valuation. [Get the data on Github.](https://github.com/MaximilianJHuber/Life-Reserve-Rate)
+I have gathered the longest available time series of the reference interest rate which is used to value life insurance liabilities according to statutory reserve valuation. [Get the data on Github.](https://github.com/MaximilianJHuber/Life-Reserve-Rate)
 
 <img src="/assets/img/Reserve Rates3.png" alt="drawing" width="778"/>
