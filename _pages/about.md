@@ -16,6 +16,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD candidate in economics at New York University. My research interests include financial economics, macro-finance, and asset pricing. 
 
-->[CV](/assets/pdf/CV.pdf) [Job Market Paper](/assets/pdf/JMP.pdf)<-
-
-I am on the job market and will be available for interviews at the EEA and ASSA meetings.
+I am on the job market and will be available for interviews at the EEA and ASSA meetings. Please, see my [CV](/assets/pdf/CV.pdf) and [job market paper](/assets/pdf/JMP.pdf).
