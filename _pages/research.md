@@ -26,6 +26,14 @@ This paper documents a recent buildup of interest rate risk exposure in the U.S.
 
 [Draft](/assets/pdf/LendingFrictions.pdf)
 
-I document that adverse shocks to life insurance companies propagate to firms which borrow from them via corporate bonds. This is evidence that lending frictions prevail in the open market for credit, as they do in relationship banking. I estimate their effect on financial and real outcomes to be more than half of what they are for banking during late 2008.
+This paper documents that adverse financial shocks to life insurance companies propagate to firms in the real economy that borrow from them via the corporate bond market. First, I show that lending relationships are sticky beyond the refinancing of corporate bonds and that holdings are concentrated among few, large institutional investors. Then, I estimate the effect of a negative financial shock, measured by Koijen and Yogo (2015), on borrowings, interest rates, capital expenditures, and employment growth. I find negative effects that are about half of what has been measured in the literature on relationship banking. This is evidence that lending frictions also prevail in the open market for credit.
 
 ---
+
+# A Mortgage Genealogy of New York City
+
+<em>joint work with Daniel Stackman</em>
+
+work-in-progress
+
+We create a family tree of mortgage agreements that tracks the issuance, change of lender, consolidation, repayment, and sale of every commercially operated property in New York City. We study the advent of covenants in these contracts and find more than 25\% contain a downward nominal rigidity: the landlord must not decrease the rent.

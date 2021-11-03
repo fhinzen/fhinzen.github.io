@@ -9,7 +9,7 @@ nav: false
 ---
 
 ### Duration of Life Insurer's Liabilities
-I estimate the duration of liabilities of U.S. life insurers. [Get the data on Github.](https://github.com/MaximilianJHuber/Life-Liability-Duration)
+In my [job market paper](/assets/pdf/JMP.pdf), I estimate the interest rate sensitivity of a large share of the liabilities of U.S. life insurers. [Get the data on Github.](https://github.com/MaximilianJHuber/Life-Liability-Duration)
 
 <img src="/assets/img/Duration Liabilities wide.png" alt="drawing" width="778"/>
 
