@@ -36,4 +36,4 @@ This paper documents that adverse financial shocks to life insurance companies p
 
 work-in-progress
 
-We create a family tree of mortgage agreements that tracks the issuance, change of lender, consolidation, repayment, and sale of every commercially operated property in New York City. We study the advent of covenants in these contracts and find more than 25\% contain a downward nominal rigidity: the landlord must not decrease the rent.
+We create a family tree of mortgage agreements that tracks the issuance, change of lender, consolidation, repayment, and sale of every commercially operated property in New York City. We study the advent of covenants in these contracts and find more than 25% contain a downward nominal rigidity: the landlord must not decrease the rent.
