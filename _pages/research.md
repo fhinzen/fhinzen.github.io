@@ -28,6 +28,8 @@ This paper documents the recent buildup of interest rate risk exposure in the U.
 
 This paper documents that adverse financial shocks to life insurance companies propagate to firms in the real economy that borrow from them via the corporate bond market. First, I show that lending relationships are sticky beyond the refinancing of corporate bonds and that holdings are concentrated among few, large institutional investors. Then, I estimate the effect of a negative financial shock, measured by Koijen and Yogo (2015), on borrowings, interest rates, capital expenditures, and employment growth. I find negative effects that are about half of what has been measured in the literature on relationship banking. This is evidence that lending frictions also prevail in the open market for credit.
 
+<img src="/assets/img/LendingFrictions.PNG" alt="drawing" width="781"/>
+
 ---
 
 ## A Mortgage Genealogy of New York City
