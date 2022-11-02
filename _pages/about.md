@@ -19,5 +19,5 @@ I am a PhD Candidate in Finance at the Stern School of Business at New York Univ
 I am on the 2022-2023 job market.
 
 You can find my job market paper,
-<center><em>Nonbank Market Power in Leveraged Lending<center><em>
+<center><em>Nonbank Market Power in Leveraged Lending</center></em>
 here.
