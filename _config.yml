@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Max Huber # the website title (if blank, full name will be used instead)
-first_name: Maximilian
-middle_name: J
-last_name: Huber
-email: maximilian.j.huber@nyu.edu
+title: Franz Hinzen # the website title (if blank, full name will be used instead)
+first_name: Franz
+middle_name: J.
+last_name: Hinzen
+email: fhinzen@stern.nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -48,7 +48,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: MaximilianJHuber # your GitHub user name
+github_username: fhinzen # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -64,7 +64,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
-contact_note: 
+contact_note:
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
@@ -150,8 +150,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Huber
-  first_name: [Maximilian, J.]
+  last_name: Hinzen
+  first_name: [Franz, J.]
 
   style: apa
   locale: en
