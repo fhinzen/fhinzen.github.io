@@ -7,9 +7,7 @@ description:
 profile:
   align: right
   image: 6653641.jpg
-  address: New York University 
-44 West 4th Street, KMC 9-193D
-New York, NY 10012
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
