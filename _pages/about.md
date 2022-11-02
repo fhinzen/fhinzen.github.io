@@ -17,3 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD Candidate in Finance at the Stern School of Business at New York University. In my research I study financial intermediation with a focus on banking and FinTech.
 
 I am on the 2022-2023 job market.
+
+You can find my job market paper,
+<center><em>Nonbank Market Power in Leveraged Lending<center><em>
+here.
