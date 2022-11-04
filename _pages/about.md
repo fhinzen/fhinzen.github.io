@@ -5,8 +5,8 @@ permalink: /
 description: 
 
 profile:
-  align: right
-  image: 6653641.jpg
+  align: left
+  image: profile_picture_oct2022.jpg
   address: 
 
 news: false  # includes a list of news items
