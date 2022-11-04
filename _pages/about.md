@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: 
+description: Franz Hinzen
 
 profile:
   align: left
