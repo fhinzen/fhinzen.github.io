@@ -14,10 +14,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Finance at the Stern School of Business at New York University. In my research I study financial intermediation with a focus on banking and FinTech.
+Welcome!
 
-I am on the 2022-2023 job market.
+I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.
 
-You can find my job market paper,
-<center><em>Nonbank Market Power in Leveraged Lending</em></center>
-here.
+<b>Research Interests</b>
+Financial Intermediation, Banking, Corporate Finance,
+FinTech, Blockchain Economics
+
+
+<b>Job Market Paper</b>
+<em>Nonbank Market Power in Leveraged Lending</em>
+Banks rely on loan sales to nonbank investors to finance lending to
+risky borrowers. Among those investors, collateralized loan obligations (CLOs)
+provide the bulk of funds. For this investor class, I show that firm-nonbank
+funding is highly persistent over time. This persistence exists even absent firmbank
+relationships. Rather arranging banks face switching costs among CLO
+investors which can yield market power to CLOs during loan origination. To
+disentangle the effects of market power from those of institutional demand, I
+employ variation in CLO managers’ loan portfolios stemming from mergers.
+I provide evidence that CLO market power leads to banks accepting higher
+spreads for their borrowers.
