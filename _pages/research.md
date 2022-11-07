@@ -25,7 +25,7 @@ nav: true
         FinTech, Blockchain Economics</p>
 
         <p align="justify"><b>Job Market Paper</b><br>
-        <em>[Nonbank Market Power in Leveraged Lending](/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf)</em><br>
+        [Nonbank Market Power in Leveraged Lending](/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf)<br>
         Banks rely on loan sales to nonbank investors to finance lending to
         risky borrowers. Among those investors, collateralized loan obligations (CLOs)
         provide the bulk of funds. For this investor class, I show that firm-nonbank
