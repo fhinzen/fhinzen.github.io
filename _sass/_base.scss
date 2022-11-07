@@ -355,8 +355,12 @@ footer.sticky-bottom {
     }
   }
 
+  .col_top{
+    display: flex;
+    vertical-align: top;
+  }
+
   .grid-item {
-    width: 250px;
     margin-bottom: 10px;
   }
 
