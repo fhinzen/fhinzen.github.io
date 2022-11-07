@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>Welcome!</p>
 
-<p>I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.</p>
+<p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
 <p>I am on the 2022-2023 academic job market.</p>
 
