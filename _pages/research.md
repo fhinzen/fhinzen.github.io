@@ -5,7 +5,6 @@ title: Title
 description: 
 nav: true
 ---
-
 <div class="row justify-content-sm-start">
     <div class="col-sm-4 mt-3 mt-md-0">
         <p style="font-size:2.5rem"><b>Franz Hinzen</b></p>
@@ -25,7 +24,7 @@ nav: true
         Financial Intermediation, Banking, Corporate Finance,<br>
         FinTech, Blockchain Economics</p>
 
-        <p><b>Job Market Paper</b><br>
+        <p align="justify"><b>Job Market Paper</b><br>
         <em>Nonbank Market Power in Leveraged Lending</em><br>
         Banks rely on loan sales to nonbank investors to finance lending to
         risky borrowers. Among those investors, collateralized loan obligations (CLOs)
