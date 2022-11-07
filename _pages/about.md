@@ -2,23 +2,19 @@
 layout: page
 title: About
 permalink: /
-description: 
+description:
+
+profile:
+  align: right
+  image: profile_picture_oct2022.jpg
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/profile_picture_oct2022.jpg.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
- E-mail: fhinzen@stern.nyu.edu
-Phone: (646)-595-5394
-Google Scholar
-SSRN   
-</div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <p>Welcome!</p>
+<p>Welcome!</p>
 
 <p>I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.</p>
 
@@ -41,6 +37,3 @@ disentangle the effects of market power from those of institutional demand, I
 employ variation in CLO managers’ loan portfolios stemming from mergers.
 I provide evidence that CLO market power leads to banks accepting higher
 spreads for their borrowers.</p>
-    </div>
-</div>
-
