@@ -37,5 +37,3 @@ nav: true
         employ variation in CLO managers’ loan portfolios stemming from mergers.
         I provide evidence that CLO market power leads to banks accepting higher
         spreads for their borrowers.</p>
-    </div>
-</div>
