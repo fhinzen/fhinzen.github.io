@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About
+subtitle: Franz Hinzen
 permalink: /
-description:
 
 profile:
   align: right
   image: profile_picture_oct2022.jpg
-  address: 
+  address: >
+<p>E-mail: fhinzen at stern.nyu.edu</p>
+    <p>(646)-595-5394</p>
+    <p>SSRN</p>
+    <p>Google Scholar</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
