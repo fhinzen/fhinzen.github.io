@@ -24,9 +24,9 @@ nav: true
         Financial Intermediation, Banking, Corporate Finance,<br>
         FinTech, Blockchain Economics</p>
 
-        <p align="justify"><b>Job Market Paper</b><br>
-        [Nonbank Market Power in Leveraged Lending](/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf)<br>
-        Banks rely on loan sales to nonbank investors to finance lending to
+        <p><b>Job Market Paper</b><br>
+        [Nonbank Market Power in Leveraged Lending](/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf) <br>
+        <p align="justify">Banks rely on loan sales to nonbank investors to finance lending to
         risky borrowers. Among those investors, collateralized loan obligations (CLOs)
         provide the bulk of funds. For this investor class, I show that firm-nonbank
         funding is highly persistent over time. This persistence exists even absent firmbank
@@ -35,6 +35,6 @@ nav: true
         disentangle the effects of market power from those of institutional demand, I
         employ variation in CLO managers’ loan portfolios stemming from mergers.
         I provide evidence that CLO market power leads to banks accepting higher
-        spreads for their borrowers.</p>
+        spreads for their borrowers.</p></p>
     </div>
 </div>
