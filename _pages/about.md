@@ -8,15 +8,12 @@ profile:
   align: right
   image: profile_picture_oct2022.jpg
   address: >
+    <br />
     <b>Contact</b>
-
     <p>Email: fhinzen@stern.nyu.edu</p>
     <p>Phone: (646)-595-5394</p>
     <p>SSRN</p>
     <p>Google Scholar</p>
-    <p></p>
-    <p></p>
-    <p>x</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
