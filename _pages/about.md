@@ -14,7 +14,7 @@ profile:
     <p>Google Scholar</p>
     <p></p>
     <p></p>
-    <p></p>
+    <p>x</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
