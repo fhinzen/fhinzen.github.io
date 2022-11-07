@@ -1,12 +1,10 @@
 ---
 layout: about
-title: About
-subtitle: Franz Hinzen
+title: Franz Hinzen
 permalink: /
 
 profile:
-  description: Franz Hinzen
-  align: right
+  align: left
   image: profile_picture_oct2022.jpg
   address: >
     <br />
