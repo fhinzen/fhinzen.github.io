@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /test2/
-title: x
+title: test2
 description: 
 nav: true
 ---
