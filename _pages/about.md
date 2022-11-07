@@ -14,17 +14,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome!
+<p>Welcome!</p>
 
-I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.
+<p>I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.</p>
 
-<b>Research Interests</b>
-Financial Intermediation, Banking, Corporate Finance,
-FinTech, Blockchain Economics
+<p><b>Research Interests</b><br>
+Financial Intermediation, Banking, Corporate Finance,<br>
+FinTech, Blockchain Economics</p>
 
 
-<b>Job Market Paper</b>
-<em>Nonbank Market Power in Leveraged Lending</em>
+<p><b>Job Market Paper</b><br>
+<em>Nonbank Market Power in Leveraged Lending</em><br>
 Banks rely on loan sales to nonbank investors to finance lending to
 risky borrowers. Among those investors, collateralized loan obligations (CLOs)
 provide the bulk of funds. For this investor class, I show that firm-nonbank
@@ -34,4 +34,4 @@ investors which can yield market power to CLOs during loan origination. To
 disentangle the effects of market power from those of institutional demand, I
 employ variation in CLO managers’ loan portfolios stemming from mergers.
 I provide evidence that CLO market power leads to banks accepting higher
-spreads for their borrowers.
+spreads for their borrowers.</p>
