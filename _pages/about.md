@@ -9,6 +9,12 @@ profile:
   image: profile_picture_oct2022.jpg
   address: 
 
+description:
+E-mail: fhinzen@stern.nyu.edu
+Phone: (646)-595-5394
+Google Scholar
+SSRN
+
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -18,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.</p>
 
-<pI am on the 2022-2023 academic job market.</p>
+<p>I am on the 2022-2023 academic job market.</p>
 
 <p><b>Research Interests</b><br>
 Financial Intermediation, Banking, Corporate Finance,<br>
