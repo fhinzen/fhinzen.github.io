@@ -5,7 +5,7 @@ permalink: /
 description:
 
 profile:
-  align: left
+  align: right
   image: profile_picture_oct2022.jpg
   address: 
 
@@ -17,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 <p>Welcome!</p>
 
 <p>I am a PhD Candidate in Finance at NYU Stern. I am on the 2022-2023 academic job market.</p>
+
+<pI am on the 2022-2023 academic job market.</p>
 
 <p><b>Research Interests</b><br>
 Financial Intermediation, Banking, Corporate Finance,<br>
