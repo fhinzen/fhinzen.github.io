@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: profile_picture_oct2022.jpg
-  address: >
+  address:
 <p>E-mail: fhinzen at stern.nyu.edu</p>
     <p>(646)-595-5394</p>
     <p>SSRN</p>
