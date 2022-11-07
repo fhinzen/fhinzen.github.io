@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About
 subtitle: Franz Hinzen
 permalink: /
