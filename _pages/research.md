@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Title
+title: Home
 description: 
 nav: true
 ---
