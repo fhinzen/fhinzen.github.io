@@ -26,8 +26,8 @@ social: true  # includes social icons at the bottom of the page
 <p>I am on the 2022-2023 academic job market.</p>
 
 <p><b>Contact</b><br>
-Email: fhinzen@stern.nyu.edu
-Phone (646)-595-5394
+Email: fhinzen@stern.nyu.edu<br>
+Phone: (646)-595-5394
 
 <p><b>Research Interests</b><br>
 Financial Intermediation, Banking, Corporate Finance,<br>
