@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Franz J. Hinzen
+title: Research
 description: 
 nav: true
 ---
