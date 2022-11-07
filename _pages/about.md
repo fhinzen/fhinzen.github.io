@@ -4,7 +4,7 @@ title: Franz Hinzen
 permalink: /
 
 profile:
-  align: right
+  align: left
   image: profile_picture_oct2022.jpg
   address: >
     <br />
