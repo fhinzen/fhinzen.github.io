@@ -7,9 +7,9 @@ permalink: /
 profile:
   align: right
   image: profile_picture_oct2022.jpg
-  address:
-<p>E-mail: fhinzen at stern.nyu.edu</p>
-    <p>(646)-595-5394</p>
+  address: >
+    <p>Email: fhinzen at stern.nyu.edu</p>
+    <p>Phone: (646)-595-5394</p>
     <p>SSRN</p>
     <p>Google Scholar</p>
 
