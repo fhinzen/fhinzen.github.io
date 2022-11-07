@@ -5,6 +5,7 @@ subtitle: Franz Hinzen
 permalink: /
 
 profile:
+  description: Franz Hinzen
   align: right
   image: profile_picture_oct2022.jpg
   address: >
