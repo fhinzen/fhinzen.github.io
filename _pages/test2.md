@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /test2/
 title: x
 description: 
 nav: true
