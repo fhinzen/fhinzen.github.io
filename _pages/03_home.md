@@ -28,6 +28,7 @@ nav: true
         Curriculum Vitae<br>
         Google Scholar</p>
     </div>
+    <div class="clearfix visible-sm-block"></div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
