@@ -5,12 +5,12 @@ title: Home3
 description: 
 nav: true
 ---
-<div class="row justify-content-sm-center align-items-start d-block mt-0 mb-3 gx-5">
+<div class="row justify-content-sm-center align-items-start d-block mt-0 mb-3 gx-6">
     <div class="col-sm-4 mt-0 mt-md-0 float-left" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right">
-        <p style="margin-top:0.5rem">Welcome!</p>
+        <p style="margin-top:0.5rem"><b>Welcome!</b></p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
         <p>I am on the 2022-2023 academic job market.</p>
@@ -47,7 +47,7 @@ nav: true
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646)-595-5394<br>
         <br>
-        Henry Kaufman Management Center<br>
+        H. Kaufman Management Center<br>
         New York University<br>
         44 West 4<sup>th</sup> Street, Suite 9-193D<br>
         New York, NY 10012</p>
