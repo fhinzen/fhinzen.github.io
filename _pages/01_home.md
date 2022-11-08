@@ -5,14 +5,14 @@ title: Home
 nav: true
 ---
 <div class="row justify-content-sm-center align-items-start">
-    <div class="col-sm-4 mt-3 mt-md-0 order-1">
+    <div class="col-sm-4 mt-3 mt-md-0 order-sm-1">
         <div class="col order-1" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
             Franz Hinzen
         </div>
-        <div class="col order-5">
+        <div class="col order-sm-5">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
         </div> 
-        <div class="col order-3">
+        <div class="col order-sm-3">
             <p>
             <b>Contact</b><br>
             Email: fhinzen@stern.nyu.edu<br>
@@ -22,7 +22,7 @@ nav: true
             Google Scholar</p>
         </div>
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0 order-0">
+    <div class="col-sm-8 mt-3 mt-md-0 order-sm-0">
         <div class="col order-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
@@ -30,7 +30,7 @@ nav: true
         <p>I am on the 2022-2023 academic job market.</p>
         </div>
 
-        <div class="col order-4">
+        <div class="col order-sm-4">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394</p>
