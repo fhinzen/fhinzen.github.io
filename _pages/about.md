@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Franz Hinzen
-permalink: /
+permalink: /about/
 
 profile:
   align: left
