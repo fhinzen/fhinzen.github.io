@@ -16,7 +16,7 @@ nav: true
         <div class="d-flex">
             <p>Email: fhinzen@stern.nyu.edu<br>
             Phone: (646)-595-5394<br>
-            
+            <br>
             Curriculum Vitae<br>
             Google Scholar</p>
         </div>
