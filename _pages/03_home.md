@@ -7,10 +7,10 @@ nav: true
 ---
 
 <div class="row justify-content-sm-center align-items-start d-block">
-    <div class="col-sm-4 mt-3 mt-md-0" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
+    <div class="col-sm-4 mt-3 mt-md-0 float-left" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0 float-right">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
