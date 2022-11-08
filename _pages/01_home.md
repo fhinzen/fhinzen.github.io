@@ -15,7 +15,7 @@ nav: true
         <div class="d-flex order-5">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
         </div> 
-        <div class="d-flex order-3">
+        <div class="col order-3">
             <p>
             <b>Contact</b><br>
             Email: fhinzen@stern.nyu.edu<br>
@@ -25,7 +25,7 @@ nav: true
             Google Scholar</p>
         </div>
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col mt-3 mt-md-0">
         <div class="col-sm-8 order-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
@@ -33,7 +33,7 @@ nav: true
         <p>I am on the 2022-2023 academic job market.</p>
         </div>
 
-        <div class="col-sm-8 order-4">
+        <div class="col order-4">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394</p>
