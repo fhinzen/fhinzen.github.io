@@ -23,7 +23,7 @@ nav: true
         </div>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0 order-sm-0">
-        <div class="col order-2">
+        <div class="col order-sm-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
