@@ -11,7 +11,7 @@ nav: true
         Franz Hinzen
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right">
-        <p style="margin-top:0.5em">Welcome!</p>
+        <p style="margin-top:0.5rem">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
         <p>I am on the 2022-2023 academic job market.</p>
