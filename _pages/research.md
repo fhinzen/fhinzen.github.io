@@ -15,9 +15,9 @@ nav: true
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
         <div class="d-flex">
             <p>Email: fhinzen@stern.nyu.edu<br>
-            Phone: (646)-595-5394</p>
+            Phone: (646)-595-5394
             
-            <p>Curriculum Vitae<br>
+            Curriculum Vitae<br>
             Google Scholar</p>
         </div>
     </div>
