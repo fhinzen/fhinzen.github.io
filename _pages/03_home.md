@@ -19,7 +19,7 @@ nav: true
     <div class="col-sm-4 mt-3 mt-md-0 float-left">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
-    <div class="col-sm-8 mt-3 mt-md-0 float-right">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394</p>
