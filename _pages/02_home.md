@@ -7,18 +7,14 @@ nav: true
 ---
 
 <div class="row justify-content-sm-center align-items-start">
-    <div class="col-sm-4 mt-3 mt-md-0 order-1">
-        <div class="d-flex order-1" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
-            Franz Hinzen
-        </div>
+    <div class="col-sm-4 mt-3 mt-md-0 order-1" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
+        Franz Hinzen
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <div class="col order-2">
+    <div class="col-sm-8 mt-3 mt-md-0 order-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
         <p>I am on the 2022-2023 academic job market.</p>
-        </div>
     </div>
 </div>
 <div class="row justify-content-sm-center flex-row order-2">
