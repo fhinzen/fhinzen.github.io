@@ -59,7 +59,6 @@
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
-              {% unless p.exclude %}
 
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
@@ -89,7 +88,6 @@
               </li>
               {%- endif -%}
               {%- endif -%}
-              {% endunless %}
               {% endfor -%}
               {%- if site.enable_darkmode %}
 
