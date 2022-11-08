@@ -23,8 +23,7 @@ nav: true
     </div> 
     <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
         <p><b>Research Interests</b><br>
-        Financial Intermediation, Banking, Corporate Finance,<br>
-        FinTech, Blockchain Economics</p>
+        Financial Intermediation, Banking, Corporate Finance,<span class="avoidwrap"> FinTech, Blockchain Economics</span></p>
 
         <b>Job Market Paper</b><br>
         <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Nonbank Market Power in Leveraged Lending</b></a> <br>
