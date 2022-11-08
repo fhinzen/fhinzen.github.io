@@ -7,7 +7,7 @@ nav: true
 ---
 
 
-<div class="row justify-content-sm-center align-items-start">
+<div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         <div class="d-flex" style="font-size:2.5rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0">Franz Hinzen</div>
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
