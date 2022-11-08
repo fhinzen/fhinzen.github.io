@@ -6,22 +6,21 @@ description:
 nav: true
 ---
 
-<div class="row justify-content-sm-center align-items-start">
-    <div class="col-sm-4 mt-3 mt-md-0" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
+<div class="row justify-content-sm-center align-items-start d-block">
+    <div class="col-sm-4 mt-3 mt-md-0 float-left" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0 float-left">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
         <p>I am on the 2022-2023 academic job market.</p>
     </div>
-    <div class="clearfix visible-sm-block"></div>
 
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0 float-left">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0 float-left">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394</p>
@@ -43,9 +42,8 @@ nav: true
         I provide evidence that CLO market power leads to banks accepting higher
         spreads for their borrowers.</p>
     </div>
-    <div class="clearfix visible-sm-block"></div>
 
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0 float-left">
         <p>
         <b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
