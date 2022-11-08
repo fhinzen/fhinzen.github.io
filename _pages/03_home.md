@@ -42,12 +42,18 @@ nav: true
         <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Further Research</b></a> <br>
 
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0 float-left">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646)-595-5394<br>
         <br>
         H. Kaufman Management Center<br>
+        New York University<br>
+        44 West 4<sup>th</sup> Street, Suite 9-193D<br>
+        New York, NY 10012</p>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0 ">
+        <p>H. Kaufman Management Center<br>
         New York University<br>
         44 West 4<sup>th</sup> Street, Suite 9-193D<br>
         New York, NY 10012</p>
