@@ -25,8 +25,8 @@ nav: true
             Google Scholar</p>
         </div>
     </div>
-    <div class="col mt-3 mt-md-0">
-        <div class="col-sm-8 order-2">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <div class="col order-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
