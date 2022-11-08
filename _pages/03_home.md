@@ -41,7 +41,7 @@ nav: true
         I provide evidence that CLO market power leads to banks accepting higher
         spreads for their borrowers.</p>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0 float-left">
+    <div class="col-sm-4 mt-3 mt-md-0">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394<br>
