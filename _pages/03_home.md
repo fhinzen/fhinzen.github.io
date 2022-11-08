@@ -17,21 +17,18 @@ nav: true
         <p>I am on the 2022-2023 academic job market.</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <div class="d-flex">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
-        </div> 
-        <div class="col">
-            <p>
-            <b>Contact</b><br>
-            Email: fhinzen@stern.nyu.edu<br>
-            Phone: (646)-595-5394<br>
-            <br>
-            Curriculum Vitae<br>
-            Google Scholar</p>
-        </div>
+    </div> 
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <p>
+        <b>Contact</b><br>
+        Email: fhinzen@stern.nyu.edu<br>
+        Phone: (646)-595-5394<br>
+        <br>
+        Curriculum Vitae<br>
+        Google Scholar</p>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <div class="col">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394</p>
@@ -52,7 +49,6 @@ nav: true
         employ variation in CLO managers’ loan portfolios stemming from mergers.
         I provide evidence that CLO market power leads to banks accepting higher
         spreads for their borrowers.</p>
-        </div>
     </div>
 </div>
 
