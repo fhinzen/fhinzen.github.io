@@ -5,7 +5,7 @@ title: Home
 nav: true
 ---
 <div class="row justify-content-sm-center align-items-start">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0 order-1">
         <div class="col order-1" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
             Franz Hinzen
         </div>
@@ -22,7 +22,7 @@ nav: true
             Google Scholar</p>
         </div>
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0 order-0">
         <div class="col order-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
