@@ -50,7 +50,7 @@ nav: true
         44 West 4<sup>th</sup> Street, Suite 9-193D<br>
         New York, NY 10012</p>
     </div>
-    <!-- <div class="col-sm-4 mt-3 mt-md-0 order-3">
+    <!-- <div class="col-sm-4 mt-3 mt-md-0 float-left order-3">
         <p>H. Kaufman Management Center<br>
         New York University<br>
         44 West 4<sup>th</sup> Street, Suite 9-193D<br>
