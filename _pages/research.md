@@ -5,9 +5,10 @@ title: Home
 description: 
 nav: true
 ---
+
+<div class="d-flex"><span style="font-size:2.5rem"><b>Franz Hinzen</b></span></div>
 <div class="row justify-content-sm-center align-items-start">
     <div class="col-sm-4 mt-3 mt-md-0 align-items-start">
-        <span style="font-size:2.5rem"><b>Franz Hinzen</b></span>
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0 align-items-start">
