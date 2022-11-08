@@ -50,7 +50,7 @@
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "order" -%}
-              {%- for p in sorted_pages if not "01_home" -%}
+              {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
