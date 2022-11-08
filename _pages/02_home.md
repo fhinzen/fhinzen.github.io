@@ -17,7 +17,7 @@ nav: true
         <p>I am on the 2022-2023 academic job market.</p>
     </div>
 </div>
-<div class="row justify-content-sm-center flex-row order-2">
+<div class="row justify-content-sm-center order-2">
     <div class="col-sm-4 mt-3 mt-md-0">
         <div class="d-flex order-5">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
