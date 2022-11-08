@@ -40,7 +40,7 @@ nav: true
         <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Further Research</b></a> <br>
 
     </div>
-     <div class="col-sm-4 mt-3 mt-md-0 float-left order-2">
+     <div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646)-595-5394<br>
