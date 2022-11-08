@@ -9,8 +9,17 @@ nav: true
 
 <div class="row justify-content-sm-center align-items-start">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <div class="d-flex" style="font-size:2.5rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0">Franz Hinzen</div>
+        <div class="d-flex" style="font-size:2.5rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0">
+            Franz Hinzen
+        </div>
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
+        <div class="d-flex">
+            <p>Email: fhinzen@stern.nyu.edu<br>
+            Phone: (646)-595-5394</p>
+            
+            <p>Curriculum Vitae<br>
+            Google Scholar</p>
+        </div>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <p style="margin-top:0.5em">Welcome!</p>
@@ -27,7 +36,7 @@ nav: true
         FinTech, Blockchain Economics</p>
 
         <b>Job Market Paper</b><br>
-        <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'>Nonbank Market Power in Leveraged Lending</a> <br>
+        <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Nonbank Market Power in Leveraged Lending</b></a> <br>
         <p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to
         risky borrowers. Among those investors, collateralized loan obligations (CLOs)
         provide the bulk of funds. For this investor class, I show that firm-nonbank
