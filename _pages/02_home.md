@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-<div class="row justify-content-sm-center align-items-start">
+<div class="row justify-content-sm-center align-items-start float-left">
     <div class="col-sm-4 mt-3 mt-md-0 order-1" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
