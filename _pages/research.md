@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-<div class="d-flex"><p style="font-size:2.5rem"><b>Franz Hinzen</b></p></div>
+<div class="d-flex"><p style="font-size:2.5rem;style="padding-top: 0;"><b>Franz Hinzen</b></p></div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
@@ -27,7 +27,7 @@ nav: true
 
         <b>Job Market Paper</b><br>
         <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'>Nonbank Market Power in Leveraged Lending</a> <br>
-        <p align="justify"><em>Abstract</em>Banks rely on loan sales to nonbank investors to finance lending to
+        <p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to
         risky borrowers. Among those investors, collateralized loan obligations (CLOs)
         provide the bulk of funds. For this investor class, I show that firm-nonbank
         funding is highly persistent over time. This persistence exists even absent firmbank
