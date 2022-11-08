@@ -13,7 +13,7 @@ nav: true
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <p>Welcome!</p>
+        <p style="margin-top:0.25em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
         <p>I am on the 2022-2023 academic job market.</p>
