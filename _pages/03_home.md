@@ -5,7 +5,7 @@ title: Home3
 description: 
 nav: true
 ---
-<div class="row justify-content-sm-center align-items-start d-block mt-0 mb-3 gx-6">
+<div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
     <div class="col-sm-4 mt-0 mt-md-0 float-left order-0" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
