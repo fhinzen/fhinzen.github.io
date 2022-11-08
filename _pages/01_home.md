@@ -2,7 +2,6 @@
 layout: page
 permalink: /
 title: Home
-nav: true
 order: 1
 ---
 <div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
