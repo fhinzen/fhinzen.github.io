@@ -10,12 +10,6 @@ nav: true
     <div class="col-sm-4 mt-3 mt-md-0" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <p style="margin-top:0.5em">Welcome!</p>
-        <p>I am a PhD Candidate in Finance at NYU Stern.</p>
-
-        <p>I am on the 2022-2023 academic job market.</p>
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
@@ -29,6 +23,12 @@ nav: true
         Google Scholar</p>
     </div>
     <div class="clearfix visible-sm-block"></div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p style="margin-top:0.5em">Welcome!</p>
+        <p>I am a PhD Candidate in Finance at NYU Stern.</p>
+
+        <p>I am on the 2022-2023 academic job market.</p>
+    </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
