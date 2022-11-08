@@ -11,7 +11,7 @@
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
         <div class="navbar-brand social">
-          {% include social.html %}
+          {% include social.html %}!
         </div>
       {% endif %}  -->
       <!-- Navbar Toggle -->
@@ -32,6 +32,7 @@
               {% endif %}
             </a>
           </li>
+
           <!-- CV -->
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
             <a class="nav-link" href="/assets/pdf/CV_FranzHinzen.pdf">
@@ -53,9 +54,11 @@
             </a>
           </li>
           {% endif %}
+
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          {% assign sorted_pages = site.pages | sort: "nav_order" %}
           {% for p in sorted_pages %}
+	    {% if p.title != 'Home'}
           {% if p.nav and p.autogen == nil %}
           {% if p.dropdown %}
           <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
@@ -84,6 +87,7 @@
                 {% endif %}
               </a>
           </li>
+          {% endif %}
           {% endif %}
           {% endif %}
           {% endfor %}
