@@ -23,7 +23,7 @@
       </button>
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
-          <!-- Home -->
+      <!--    <!-- Home -->
           <li class="nav-item {% if page.title == 'Home' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               Home
@@ -31,7 +31,7 @@
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
-          </li>
+          </li> -->
 
           <!-- CV -->
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
@@ -57,7 +57,7 @@
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "nav_order" %}
-          {% for p in sorted_pages if not p.title == 'Home' %}
+          {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           {% if p.dropdown %}
           <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
