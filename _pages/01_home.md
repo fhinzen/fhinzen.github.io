@@ -26,14 +26,14 @@ nav: true
         </div>
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        <div class="d-flex order-2">
+        <div class="col-sm-8 order-2">
         <p style="margin-top:0.5em">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
         <p>I am on the 2022-2023 academic job market.</p>
         </div>
 
-        <div class="d-flex order-4">
+        <div class="col-sm-8 order-4">
         <p><b>Contact</b><br>
         Email: fhinzen@stern.nyu.edu<br>
         Phone: (646)-595-5394</p>
