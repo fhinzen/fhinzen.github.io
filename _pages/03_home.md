@@ -5,8 +5,7 @@ title: Home3
 description: 
 nav: true
 ---
-
-<div class="row justify-content-sm-center align-items-start d-block">
+<div class="row justify-content-sm-center align-items-start d-block mt-0">
     <div class="col-sm-4 mt-0 mt-md-0 float-left" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
         Franz Hinzen
     </div>
@@ -14,7 +13,10 @@ nav: true
         <p style="margin-top:0.5rem">Welcome!</p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
-        <p>I am on the 2022-2023 academic job market.</p>
+        <p>I am on the 2022-2023 academic job market.
+
+        <a href='../assets/pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
+        <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0 float-left">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
@@ -36,14 +38,19 @@ nav: true
         employ variation in CLO managers’ loan portfolios stemming from mergers.
         I provide evidence that CLO market power leads to banks accepting higher
         spreads for their borrowers.</p>
+
+        <a href='../assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Further Research</b></a> <br>
+
     </div>
     <div class="col-sm-4 mt-3 mb-3 mt-md-0">
         <p><b>Contact</b><br>
-        Email: fhinzen@stern.nyu.edu<br>
+        Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646)-595-5394<br>
         <br>
-        Curriculum Vitae<br>
-        Google Scholar</p>
+        Henry Kaufman Management Center<br>
+        New York University<br>
+        44 West 4<sup>th</sup> Street, Suite 9-193D<br>
+        New York, NY 10012
     </div>
 </div>
 
