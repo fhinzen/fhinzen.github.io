@@ -57,8 +57,7 @@
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "nav_order" %}
-          {% for p in sorted_pages %}
-	    {% if p.title != 'Home' %}
+          {% for p in sorted_pages if not p.title == 'Home' %}
           {% if p.nav and p.autogen == nil %}
           {% if p.dropdown %}
           <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
@@ -75,7 +74,6 @@
               {% else %}
                 <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
               {% endif %}
-              {% endif %}
               {% endfor %}
               </div>
           </li>
@@ -88,7 +86,6 @@
                 {% endif %}
               </a>
           </li>
-          {% endif %}
           {% endif %}
           {% endif %}
           {% endfor %}
