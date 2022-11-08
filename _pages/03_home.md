@@ -18,7 +18,7 @@ nav: true
         <p><a href='../assets/pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
         <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a></p>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0 float-left order-5">
+    <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
     <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
