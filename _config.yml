@@ -8,6 +8,7 @@ middle_name: J.
 last_name: Hinzen
 email: fhinzen@stern.nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  I am a PhD Candidate in Finance at NYU Stern. My research is on Financial Intermediation with a focus on banking and FinTech.
 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -79,7 +80,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note:
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-249069062-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
