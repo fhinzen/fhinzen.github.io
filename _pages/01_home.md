@@ -24,21 +24,11 @@ nav_order: 1
         <p><b>Research Interests</b><br>
         Financial Intermediation, Banking, Corporate Finance,<span class="avoidwrap"> FinTech, Blockchain Economics</span></p>
 
-        <b>Job Market Paper</b><br>
-        <a href='/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Nonbank Market Power in Leveraged Lending</b></a> <br>
-        <p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to
-        risky borrowers. Among those investors, collateralized loan obligations (CLOs)
-        provide the bulk of funds. For this investor class, I show that firm-nonbank
-        funding is highly persistent over time. This persistence exists even absent firmbank
-        relationships. Rather arranging banks face switching costs among CLO
-        investors which can yield market power to CLOs during loan origination. To
-        disentangle the effects of market power from those of institutional demand, I
-        employ variation in CLO managers’ loan portfolios stemming from mergers.
-        I provide evidence that CLO market power leads to banks accepting higher
-        spreads for their borrowers.</p>
+        <p><b>Job Market Paper</b><br>
+        <a href='/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><b>Nonbank Market Power in Leveraged Lending</b></a><br>
+        <p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to risky borrowers. Among those investors, collateralized loan obligations (CLOs) provide the bulk of funds. For this investor class, I show that firm-nonbank funding is highly persistent over time. This persistence exists even absent firmbank relationships. Rather arranging banks face switching costs among CLO investors which can yield market power to CLOs during loan origination. To disentangle the effects of market power from those of institutional demand, I employ variation in CLO managers’ loan portfolios stemming from mergers. I provide evidence that CLO market power leads to banks accepting higher spreads for their borrowers.</p></p>
 
         <a href='/research/'><b>Further Research</b></a> <br>
-
     </div>
      <div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
