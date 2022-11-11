@@ -7,7 +7,6 @@ nav_order: 2
 ---
 TBD
 
-
 # Nonbank Market Power in Leveraged Lending
 <em>Job Market Paper</em>
 
