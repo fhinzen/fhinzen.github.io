@@ -12,7 +12,7 @@ nav_order: 2
 <b>Nonbank Market Power in Leveraged Lending</b><br>
 <a href='/assets/pdf/JMP_Hinzen_NonbankMarketPower.pdf'><u>Draft</u></a>
 
-<p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to risky borrowers. Among those investors, collateralized loan obligations (CLOs) provide the bulk of funds. For this investor class, I show that firm-nonbank funding is highly persistent over time. This persistence exists even absent firmbank relationships. Rather arranging banks face switching costs among CLO investors which can yield market power to CLOs during loan origination. To disentangle the effects of market power from those of institutional demand, I employ variation in CLO managers’ loan portfolios stemming from mergers. I provide evidence that CLO market power leads to banks accepting higher spreads for their borrowers.</p>
+<p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to risky borrowers. Among those investors, collateralized loan obligations (CLOs) provide the bulk of funds. I show that CLOs have market power during origination that leads banks to accept higher spreads for their borrowers. To identify the effects of market power, I employ variation in CLO managers’ loan portfolios stemming from mergers. To this end, I provide evidence that CLO liabilities are the main merger determinants. CLO market power is a result of switching costs faced by the arranging bank as evident by a high degree of persistence in firm-nonbank funding. This persistence exists even absent firm-bank relationships. Rather, switching costs arise as a result of information asymmetries across CLO managers that the bank is unable to resolve.</p>
 <br>
 <br>
 <br>
