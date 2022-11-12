@@ -25,7 +25,7 @@ nav_order: 1
         Financial Intermediation, Banking, Corporate Finance,<span class="avoidwrap"> FinTech, Blockchain Economics</span></p>
 
         <p><b>Job Market Paper</b><br>
-        <a href='/pdf/JMP_Hinzen_NonbankMarketPower.pdf' target='_blank'><b>Nonbank Market Power in Leveraged Lending</b></a><br>
+        <a href='/JMP_Hinzen_NonbankMarketPower.pdf'><b>Nonbank Market Power in Leveraged Lending</b></a><br>
         <p align="justify"><em>Abstract:</em> Banks sell loans to nonbank investors to finance lending to risky firms. Among these investors, collateralized loan obligations (CLOs) provide the bulk of funds. I show that CLOs have market power, which enables them to extract lender-friendly loan terms. I use hand-collected data on CLO mergers to identify this effect. In that process, I provide the first analysis of mergers in the CLO industry. CLO market power results from switching costs faced by the bank. One source of switching costs is information asymmetries across CLOs that arise during underwriting. My results help explain the price differential between loans and corporate bonds.</p></p>
 
         <a href='/research/'><b>Further Research</b></a> <br>
