@@ -14,7 +14,7 @@ nav_order: 1
 
         <p>I am on the 2022-2023 academic job market.</p>
 
-        <p><a href='/assets/pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
+        <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
         <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
