@@ -12,7 +12,7 @@ nav_order: 2
 <b>Nonbank Market Power in Leveraged Lending</b><br>
 <a href='/JMP_Hinzen_NonbankMarketPower.pdf'><u>Draft</u></a>
 
-<p align="justify"><em>Abstract:</em> Banks rely on loan sales to nonbank investors to finance lending to risky borrowers. Among those investors, collateralized loan obligations (CLOs) provide the bulk of funds. I show that CLOs have market power during origination that leads banks to accept higher spreads for their borrowers. To identify the effects of market power, I employ variation in CLO managers’ loan portfolios stemming from mergers. To this end, I provide evidence that CLO liabilities are the main merger determinants. CLO market power is a result of switching costs faced by the arranging bank as evident by a high degree of persistence in firm-nonbank funding. This persistence exists even absent firm-bank relationships. Rather, switching costs arise as a result of information asymmetries across CLO managers that the bank is unable to resolve.</p>
+<p align="justify"><em>Abstract:</em> Banks finance their lending to risky firms by selling these loans to nonbank financial institutions. Among these nonbanks, collateralized loan obligations (CLOs) provide the bulk of funds. I show that CLO managers have market power, which enables them to extract lender-friendly loan terms. Their market power results from switching costs faced by the bank. One source of switching costs is information asymmetries across CLO managers that arise during underwriting. To identify my results, I construct a new instrument using novel data on mergers in the CLO industry. I provide the first analysis of these mergers and their determinants.</p>
 <br>
 <br>
 <br>
@@ -36,3 +36,6 @@ with <a href='https://pages.stern.nyu.edu/~kjohn/'>Kose John</a> and <a href='ht
 <b>Loan Sales and Zombie Lending</b><br>
 
 <p align="justify"><em>Abstract:</em> How do loan sales affect lending incentives of banks in distress? A bank's loan book ties the bank's health to that of its borrowers. Consequently, undercapitalized banks may have a ``perverse incentive'' to protect their regulatory balance sheets by extending loans to their otherwise insolvent firms. I find that loan sales in good times can alleviate this so-called zombie lending motive by limiting the loss a bank has to recognize in case of default. My results highlight that the separation of origination from the holding of credit can have positive financial stability implications.</p>
+
+<b>The Changing Landscape of Corporate Loan Pricing</b>
+with <a href='https://www.stern.nyu.edu/faculty/bio/anthony-saunders'>Anthony Saunders</a> and <a href='https://www.sascha-steffen.de/'>Sascha Steffen</a><br>
