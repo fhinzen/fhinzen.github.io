@@ -34,7 +34,6 @@ with <a href='https://pages.stern.nyu.edu/~kjohn/'>Kose John</a> and <a href='ht
 ---
 
 <b>Loan Sales and Zombie Lending</b><br>
-
 <p align="justify"><em>Abstract:</em> How do loan sales affect lending incentives of banks in distress? A bank's loan book ties the bank's health to that of its borrowers. Consequently, undercapitalized banks may have a "perverse incentive" to protect their regulatory balance sheets by extending loans to their otherwise insolvent firms. I find that loan sales in good times can alleviate this so-called zombie lending motive by limiting the loss a bank has to recognize in case of default. My results highlight that the separation of origination from the holding of credit can have positive financial stability implications.</p>
 <br>
 <br>
