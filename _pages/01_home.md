@@ -12,7 +12,7 @@ nav_order: 1
         <p style="margin-top:0.5rem"><b>Welcome!</b></p>
         <p>I am a PhD Candidate in Finance at NYU Stern.</p>
 
-        <p>I am on the 2022-2023 academic job market.</p>
+        <p>This summer, I will join the Tuck School of Business at Dartmouth College as an assistant professor in the Finance Group.</p>
 
         <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
         <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a></p>
@@ -33,7 +33,7 @@ nav_order: 1
      <div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
-        Phone: (646)-595-5394<br>
+        Phone: (646) 595 - 5394<br>
         <br>
         H. Kaufman Management Center<br>
         New York University<br>
