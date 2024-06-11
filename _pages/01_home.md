@@ -12,23 +12,18 @@ nav_order: 1
         <p style="margin-top:0.0rem; font-size:2.5rem"><b>Franz Hinzen</b></p>
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
-	<p>Email: <b><a href = "mailto: franz.hinzen@tuck.dartmouth.edu">franz.hinzen@tuck.dartmouth.edu</a></b></p>
+	<p>My research interests are primarily in the fields of Corporate Finance, Financial Intermediation, and Banking.</p>
+
+	<p><b>Email</b>: <a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
         <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
-        <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a></p>
+        <!-- <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a>--></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
     <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
-        <p><b>Research Interests</b><br>
-        Financial Intermediation, Banking, Corporate Finance,<span class="avoidwrap"> FinTech, Blockchain Economics</span></p>
 
-        <p><b>Job Market Paper</b><br>
-        <a href='/JMP_Hinzen_NonbankMarketPower.pdf'><b>Nonbank Market Power in Leveraged Lending</b></a><br>
-        <p align="justify"><em>Abstract:</em> Banks finance their lending to risky firms by selling these loans to nonbank financial institutions. Among these nonbanks, collateralized loan obligations (CLOs) provide the bulk of funds. I show that CLO managers have significant market power, which enables them to extract lender-friendly loan terms. Their market power results from switching costs faced by the bank. One source of switching costs is information asymmetries across CLO managers that arise during underwriting. To identify my results, I construct a new instrument using novel data on mergers in the CLO industry. I provide the first analysis of these mergers and their determinants.</p></p>
-
-        <a href='/research/'><b>Further Research</b></a> <br>
     </div>
      <div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
