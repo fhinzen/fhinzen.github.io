@@ -9,7 +9,7 @@ nav_order: 1
         
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
-        <p style="margin-top:0.0rem; font-size:2.0rem"><b>Franz Hinzen</b></p>
+        <p style="margin-top:0.5rem; font-size:2.0rem"><b>Franz Hinzen</b></p>
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
 	<p>My research interests primarily are in the areas of Corporate Finance, Financial Intermediation, and Banking.</p>
@@ -41,6 +41,6 @@ nav_order: 1
         New York University<br>
         44 West 4<sup>th</sup> Street, Suite 9-193D<br>
         New York, NY 10012</p>
-    </div> -->
+    </div> 
 </div> -->
 
