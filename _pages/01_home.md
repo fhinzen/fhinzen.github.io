@@ -10,7 +10,7 @@ nav_order: 1
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
         <p style="margin-top:0.5rem"><b>Welcome!</b></p>
-        <p>This summer, I will join the Tuck School of Business at Dartmouth College as an assistant professor in the Finance Group.</p>
+        <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
         <p>I received a Ph.D. New York University's Stern School of Business in May 2023.</p>
 
