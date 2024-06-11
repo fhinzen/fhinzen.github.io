@@ -12,7 +12,8 @@ nav_order: 1
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
 	<!--<p>My research primarily focuses on topics in Corporate Finance, Financial Intermediation, and Banking.</p>-->
-	<p><ul><b>Research Interests</b>
+	<p><b>Research Interests</b>
+	<ul style="margin-top:-30px;">
 		<li>Corporate Finance</li>
   		<li>Financial Intermediation</li>
   		<li>Banking</li></ul></p>
