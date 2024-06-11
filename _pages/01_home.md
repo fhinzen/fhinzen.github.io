@@ -11,7 +11,13 @@ nav_order: 1
         <p style="margin-top:0.5rem; font-size:2.0rem"><b>Franz Hinzen</b></p>
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
-	<p>My research primarily focuses on topics in Corporate Finance, Financial Intermediation, and Banking.</p>
+	<!--<p>My research primarily focuses on topics in Corporate Finance, Financial Intermediation, and Banking.</p>-->
+	<p><b>Research Interests</b><br>
+	<ul>
+  		<li>Corporate Finance</li>
+  		<li>Financial Intermediation</li>
+  		<li>Banking</li>
+	</ul>
 
 	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
