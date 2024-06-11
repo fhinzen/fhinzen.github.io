@@ -17,15 +17,15 @@ nav_order: 1
 	<p><b>Email</b>: <a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
         <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
-        <a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Tuck Faculty Webpage</b></a></p>
+        <a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
     <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
 
-    </div>
-     <div class="col-sm-4 mt-3 mt-md-0 order-2">
+    <!--</div>
+     <!--<div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646) 595 - 5394<br>
@@ -41,5 +41,5 @@ nav_order: 1
         44 West 4<sup>th</sup> Street, Suite 9-193D<br>
         New York, NY 10012</p>
     </div> -->
-</div>
+</div> -->
 
