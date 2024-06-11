@@ -9,15 +9,16 @@ nav_order: 1
         
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
-        <p style="margin-top:0.0rem; font-size:2.5rem"><b>Franz Hinzen</b></p>
+        <p style="margin-top:0.0rem; font-size:2.0rem"><b>Franz Hinzen</b></p>
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
-	<p>My research interests are primarily in the fields of Corporate Finance, Financial Intermediation, and Banking.</p>
+	<p>My research interests primarily are in the areas of Corporate Finance, Financial Intermediation, and Banking.</p>
 
-	<p><b>Email</b>: <a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
+	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
-        <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
-        <a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
+        <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
+
+        <p><a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
@@ -25,7 +26,7 @@ nav_order: 1
     <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
 
     <!--</div>
-     <!--<div class="col-sm-4 mt-3 mt-md-0 order-2">
+     <div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646) 595 - 5394<br>
