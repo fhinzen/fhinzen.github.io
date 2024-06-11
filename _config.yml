@@ -6,9 +6,9 @@ title: Franz Hinzen # the website title (if blank, full name will be used instea
 first_name: Franz
 middle_name: J.
 last_name: Hinzen
-email: fhinzen@stern.nyu.edu
+email: franz.hinzen@tuck.dartmouth.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a PhD Candidate in Finance at NYU Stern. My research is on Financial Intermediation with a focus on banking and FinTech.
+  I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth. My research is on banks, nonbanks, and how their interplay shapes market outcomes.
 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
