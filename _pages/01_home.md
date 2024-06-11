@@ -13,11 +13,9 @@ nav_order: 1
 
 	<!--<p>My research primarily focuses on topics in Corporate Finance, Financial Intermediation, and Banking.</p>-->
 	<p><b>Research Interests</b><br>
-	<ul>
-  		<li>Corporate Finance</li>
+	<ul><li>Corporate Finance</li>
   		<li>Financial Intermediation</li>
-  		<li>Banking</li>
-	</ul></p>
+  		<li>Banking</li></ul></p>
 
 	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
