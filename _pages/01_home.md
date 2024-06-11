@@ -17,7 +17,7 @@ nav_order: 1
   		<li>Corporate Finance</li>
   		<li>Financial Intermediation</li>
   		<li>Banking</li>
-	</ul>
+	</ul></p>
 
 	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
