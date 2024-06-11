@@ -9,8 +9,10 @@ nav_order: 1
         
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
-        <p style="margin-top:0.0rem; font-size:3.0rem"><b>Franz Hinzen</b></p>
-        <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth. I received a Ph.D. in Finance from the New York University Stern School of Business in May 2023.</p>
+        <p style="margin-top:0.0rem; font-size:2.5rem"><b>Franz Hinzen</b></p>
+        <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
+
+	<p>Email: <b><a href = "mailto: franz.hinzen@tuck.dartmouth.edu">franz.hinzen@tuck.dartmouth.edu</a></b></p>
 
         <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
         <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a></p>
