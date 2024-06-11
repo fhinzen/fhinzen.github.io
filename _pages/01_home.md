@@ -13,7 +13,7 @@ nav_order: 1
 
 	<!--<p>My research primarily focuses on topics in Corporate Finance, Financial Intermediation, and Banking.</p>-->
 	<p><b>Research Interests</b>
-	<ul style="margin-top:-30px;">
+	<ul style="margin-top:-10px;">
 		<li>Corporate Finance</li>
   		<li>Financial Intermediation</li>
   		<li>Banking</li></ul></p>
