@@ -17,7 +17,7 @@ nav_order: 1
 	<p><b>Email</b>: <a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
         <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br>
-        <!-- <a href='https://scholar.google.com/citations?user=6aADdhwAAAAJ'><b>Google Scholar</b></a>--></p>
+        <a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Tuck Faculty Webpage</b></a></p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
