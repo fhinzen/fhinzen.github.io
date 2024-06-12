@@ -29,4 +29,3 @@ nav_order: 1
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
 </div>
-<br>
