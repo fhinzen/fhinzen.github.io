@@ -4,9 +4,9 @@ permalink: /
 title: Home
 nav_order: 1
 ---
+
 <div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
     <div class="col-sm-4 mt-0 mt-md-0 float-left order-0" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
-abcs
     </div>
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
         <p style="margin-top:0.5rem; font-size:2.0rem"><b>Franz Hinzen</b></p>
@@ -30,8 +30,8 @@ abcs
     </div> 
     <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
 
-    <!--</div>
-     <div class="col-sm-4 mt-3 mt-md-0 order-2">
+    </div>
+     <!--<div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
         Phone: (646) 595 - 5394<br>
