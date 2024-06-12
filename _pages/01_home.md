@@ -17,7 +17,7 @@ nav_order: 1
 
 	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
-        <p><a href='/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
+        <p><a href='/pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
 
         <p><a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
     </div>
@@ -30,3 +30,4 @@ nav_order: 1
     <div class="col-sm-12 mt-0 mt-md-0 float-right order-1">
 </div>
 </div>
+<p style = "opacity: 0.0; font-size:1px">.</p>
