@@ -4,6 +4,7 @@ permalink: /
 title: Home
 nav_order: 1
 ---
+
 <div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
         <p style="font-size:2.0rem; padding-top:0.0rem; margin-top:0.0rem;"><b>Franz Hinzen</b></p>
@@ -17,7 +18,7 @@ nav_order: 1
 
 	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
-        <p><a href='/pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
+        <p><a href='pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
 
         <p><a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
     </div>
