@@ -4,16 +4,9 @@
 
 // Typography
 
-h1, h2, h3, h4, h5, h6, em, div, span, strong {
+p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   font-size: 1.0rem;
   color: var(--global-text-color);
-}
-
-p {
-  font-size: 1.0rem;
-  color: var(--global-text-color);
-  margin-top: 1.0rem;
-  margin-bottom: 1.0rem
 }
 
 a, table.table a {
