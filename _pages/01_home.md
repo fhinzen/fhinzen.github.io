@@ -28,6 +28,7 @@ nav_order: 1
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
+</div>
 
 
      <!--<div class="col-sm-4 mt-3 mt-md-0 order-2">
