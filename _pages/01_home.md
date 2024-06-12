@@ -4,7 +4,6 @@ permalink: /
 title: Home
 nav_order: 1
 ---
-<div class="container">
 <div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1" style="border:1px solid blue;">
         <p style="font-size:2.0rem; padding-top:0.0rem; margin-top:0.0rem;"><b>Franz Hinzen</b></p>
@@ -25,7 +24,6 @@ nav_order: 1
     <div class="col-sm-4 mt-0 mt-md-0 float-left order-last" style="padding-top:0.0rem; margin-top:0.0rem; border:1px solid green;">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %} 
     </div> 
-</div>
 </div>
 <div class="container">
 <div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
