@@ -22,12 +22,12 @@ nav_order: 1
 
         <p><a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
     </div>
-    <div class="col-sm-4 mt-0 mt-md-0 float-left order-2" style="padding-top:0.0rem; margin-top:0.0rem;">
+    <div class="col-sm-4 mt-0 pt-0 mt-md-0 float-left order-2">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" style="padding-top:0.0rem; margin-top:0.0rem;" %} 
     </div> 
 </div>
 <div class="row">
-    <div class="col-sm-12 mt-0 mt-md-0 float-left order-last" style="padding-top:0.0rem; margin-top:0.0rem;">
+    <div class="col-sm-12 mt-0 mb-0 mt-md-0 float-left order-last">
         <span style = "opacity: 0.0; font-size:1px">.</span>
     </div> 
 </div>
