@@ -33,14 +33,6 @@
                 </a>
               </li>
 
-	        <!-- CV -->
-              <li class="nav-item">
-                <a class="nav-link" href="assets/pdf/CV_FranzHinzen.pdf">
-                  CV
-                </a>
-              </li>
-
-
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages if not "01_home.html" -%}
@@ -73,6 +65,14 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+	        <!-- CV -->
+              <li class="nav-item">
+                <a class="nav-link" href="assets/pdf/CV_FranzHinzen.pdf">
+                  CV
+                </a>
+              </li>
+
 
             </ul>
           </div>
