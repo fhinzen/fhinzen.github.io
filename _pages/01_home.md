@@ -28,9 +28,6 @@ nav_order: 1
     <div class="col-sm-4 mt-3 mt-md-0 float-left order-last">
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %}
     </div> 
-    <div class="col-sm-8 mt-3 mt-md-0 float-right order-4">
-
-    </div>
      <!--<div class="col-sm-4 mt-3 mt-md-0 order-2">
         <p><b>Contact</b><br>
         Email: <a href = "mailto: fhinzen@stern.nyu.edu">fhinzen@stern.nyu.edu</a><br>
