@@ -25,9 +25,4 @@ nav_order: 1
         {% include figure.html path="assets/img/profile_picture_oct2022.jpg" title="Profile Picture" class="img-fluid rounded z-depth-1" %} 
     </div> 
 </div>
-<div class="container">
-<div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
-    <div class="col-sm-12 mt-0 mt-md-0 float-right order-1">
-</div>
-</div>
 <p style = "opacity: 0.0; font-size:1px">.</p>
