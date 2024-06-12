@@ -5,7 +5,7 @@ title: Home
 nav_order: 1
 ---
 <div class="container">
-<div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6 gy-1">
+<div class="row justify-content-sm-center align-items-start d-flex d-sm-block mt-0 mb-3 gx-6">
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1" style="border:1px solid blue;">
         <p style="font-size:2.0rem; padding-top:0.0rem; margin-top:0.0rem;"><b>Franz Hinzen</b></p>
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
