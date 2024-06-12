@@ -32,4 +32,4 @@ nav_order: 1
     <div class="col-sm-12 mt-0 mt-md-0 float-right order-1" style="border:1px solid blue;">
 </div>
 </div>
-<hr width="0.1"/>
+<p style = "font-size:50px">.</p>
