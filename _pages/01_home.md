@@ -18,7 +18,7 @@ nav_order: 1
 
 	<p><a href = "mailto: franz.hinzen@tuck.dartmouth.edu"><b>franz.hinzen@tuck.dartmouth.edu</b></a></p>
 
-        <p><a href='pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
+        <p><a href='assets/pdf/CV_FranzHinzen.pdf'><b>Curriculum Vitae</b></a><br></p>
 
         <p><a href='https://www.tuck.dartmouth.edu/faculty/faculty-directory/franz-hinzen'><b>Faculty Webpage</b></a></p>
     </div>
