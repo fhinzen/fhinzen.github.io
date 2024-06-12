@@ -9,7 +9,7 @@ nav_order: 1
     <!--<div class="col-sm-4 mt-0 mt-md-0 float-left order-0" style="font-size:2.0rem; padding-top:0; margin-top:0; margin-bottom:0.5em; border:0; font-weight:500">
     </div>-->
     <div class="col-sm-8 mt-0 mt-md-0 float-right order-1">
-        <p style="margin-top:0.5rem; font-size:2.0rem"><b>Franz Hinzen</b></p>
+        <p style="font-size:2.0rem"><b>Franz Hinzen</b></p>
         <p>I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth.</p>
 
 	<!--<p>My research primarily focuses on topics in Corporate Finance, Financial Intermediation, and Banking.</p>-->
