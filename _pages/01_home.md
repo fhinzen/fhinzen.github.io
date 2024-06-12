@@ -27,7 +27,7 @@ nav_order: 1
     </div> 
 </div>
 <div class="row">
-    <div class="col-sm-4 mt-0 mt-md-0 float-left order-last" style="padding-top:0.0rem; margin-top:0.0rem;">
+    <div class="col-sm-12 mt-0 mt-md-0 float-left order-last" style="padding-top:0.0rem; margin-top:0.0rem;">
         testetesttest
     </div> 
 </div>
