@@ -10,8 +10,8 @@ email: franz.hinzen@tuck.dartmouth.edu
 description: I'm an Assistant Professor in the Finance Group at the Tuck School of Business at Dartmouth. My research is on banks, nonbanks, and how their interplay shapes market outcomes.
 
 footer_text: >
-  <!-- Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. -->
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  <!-- Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.-->
 
 icon: /assets/img/favicon.ico
 url:  # the base hostname & protocol for your site
