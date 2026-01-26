@@ -18,11 +18,9 @@ nav_order: 2
 with <a href='https://felipeseverino.weebly.com/'>Felipe Severino</a> and <a href='https://business.columbia.edu/svannieuwerburgh/'>Stijn Van Nieuwerburgh</a><br>
 <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5560880'><u>SSRN</u></a> -
 <a href='/assets/pdf/HSV - Regional Banks and CRE Risks.pdf'><u>Draft</u></a>
-
 <p align="justify"><em>Abstract:</em> Almost one-third of U.S. commercial mortgage dollars sits on regional bank balance sheets. Recent commercial property revaluations have sparked concerns that this substantial exposure may create fractures in the banking system and spill over to the wider economy. To assess commercial real estate (CRE) risks in regional banks, we construct a novel loan-level dataset from county records. While many regional banks have benefited from exposure to better-performing markets thus far, reported delinquencies understate risks from undercollateralized loans by a factor of four. Under realistic further stress scenarios, many regional banks become undercapitalized. High geographic and sectoral portfolio concentrations create vulnerabilities even to localized shocks. We document that regional banks are already lowering lending standards to roll over distressed loans, which may amplify downside risks.
 </p>
 <br>
-
 <b>Competition in U.S. Corporate Credit Markets</b><br>
 with Giorgio Mondini,  <a href='https://sites.google.com/view/paulrintamaki'>Paul Rint&auml;maki</a>, and <a href='https://www.sascha-steffen.de/'>Sascha Steffen</a><br>
 <br>
