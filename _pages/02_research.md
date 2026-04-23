@@ -9,7 +9,7 @@ nav_order: 2
 # Working Paper/Work-in-progress
 ---
 
-<b>Nonbank Market Power in Leveraged Lending</b> (Job Market Paper)<br>
+<b>Nonbank Market Power in Leveraged Lending</b><br>
 <a href='/assets/pdf/Hinzen - Nonbank Market Power in Leveraged Lending.pdf'><u>Draft</u></a>
 <p align="justify"><em>Abstract:</em> Banks finance their lending to risky firms by selling these loans to nonbank financial institutions. Among these nonbanks, collateralized loan obligations (CLOs) provide the bulk of funds. I show that CLO managers have significant market power during loan origination, which increases firms' cost of borrowing in the leveraged loan market. Akin to bank market power in classic lending relationships which are the result of a bank's &ldquo;information monopoly,&rdquo; nonbank market power is the result of asymmetrically informed nonbanks. Information asymmetries across nonbanks arise from differential information flows during loan underwriting. Contrary to the underwriting of public securities, banks in general disseminate private information about the borrower when marketing a loan. However, some nonbanks self-restrict their information access to publicly available information. To identify my results, I construct a new instrument using novel data on mergers in the CLO industry. I provide the first analysis of these mergers and their determinants. Overall, this research highlights a key distinction between public and private debt markets and its economic consequences for borrowing firms. My findings have important implications for the ongoing legal debate on the applicability of securities law to leveraged loans.
 </p>
@@ -21,8 +21,11 @@ with <a href='https://felipeseverino.weebly.com/'>Felipe Severino</a> and <a hre
 <p align="justify"><em>Abstract:</em> Almost one-third of U.S. commercial mortgage dollars sits on regional bank balance sheets. Recent commercial property revaluations have sparked concerns that this substantial exposure may create fractures in the banking system and spill over to the wider economy. To assess commercial real estate (CRE) risks in regional banks, we construct a novel loan-level dataset from county records. While many regional banks have benefited from exposure to better-performing markets thus far, reported delinquencies understate risks from undercollateralized loans by a factor of four. Under realistic further stress scenarios, many regional banks become undercapitalized. High geographic and sectoral portfolio concentrations create vulnerabilities even to localized shocks. We document that regional banks are already lowering lending standards to roll over distressed loans, which may amplify downside risks.
 </p>
 <br>
-<b>Competition in U.S. Corporate Credit Markets</b><br>
+<b>The Cyclicality of Direct Lending</b><br>
 with Giorgio Mondini,  <a href='https://sites.google.com/view/paulrintamaki'>Paul Rint&auml;maki</a>, and <a href='https://www.sascha-steffen.de/'>Sascha Steffen</a><br>
+<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6490423'><u>SSRN</u></a> -
+<a href='/assets/pdf/HMRS - The Cyclicality of Direct Lending.pdf'><u>Draft</u></a>
+<p align="justify"><em>Abstract:</em> In direct lending, nonbank financial institutions originate bilaterally negotiated loans to risky firms. We document that issuance in this segment of the private credit market is countercyclical relative to issuance in other high-yield corporate credit markets, such as syndicated loans. This countercyclicality is the result of firms substituting across credit markets. Rather than forgo debt financing, firms switch to direct lending when credit conditions in other credit markets tighten. This substitution behavior is especially pronounced among sponsor-backed firms. Contrary to the concern that private credit could amplify credit supply shocks, our results indicate that private credit may dampen the corporate credit cycle. Thus, our findings have important implications for assessing the financial stability ramifications of the rapid growth in private credit.
 <br>
 <b>Relationship Nonbankers</b><br>
 with <a href='https://sites.google.com/view/maxjager/home'>Max Jager</a><br>
