@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-# Working Paper/Work-in-progress
+# Working Papers/Work-in-progress
 ---
 
 <b>Nonbank Market Power in Leveraged Lending</b><br>
